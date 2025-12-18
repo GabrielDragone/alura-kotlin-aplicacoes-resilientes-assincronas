@@ -1,4 +1,4 @@
-package com.gabriel.dragone.kotlin_aplicacoes_resilientes_assincronas.core
+package com.gabriel.dragone.kotlin_aplicacoes_resilientes_assincronas.core.service
 
 import com.gabriel.dragone.kotlin_aplicacoes_resilientes_assincronas.domain.model.Car
 import com.gabriel.dragone.kotlin_aplicacoes_resilientes_assincronas.domain.ports.CarRepository
